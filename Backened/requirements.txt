@@ -1,0 +1,6 @@
+sentence-transformers
+langchain
+pymupdf
+huggingface-hub
+faiss-gpu
+langchain-community
